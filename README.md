@@ -1,2 +1,2 @@
 # jpractice
-java practice
+This repo is created for java practice
