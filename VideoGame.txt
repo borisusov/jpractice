@@ -1,0 +1,14 @@
+class VideoGame {
+    int color; //color
+    String int price; //cena
+
+    void start () {
+
+    }
+    void stop () {
+
+    }
+    void saveScore (String playerName, int score) {
+        
+    }
+}
